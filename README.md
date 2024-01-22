@@ -87,3 +87,15 @@ The first part of the project focuses on the process of indexing and storing emb
 The second part of the project demonstrates how to query the indexed data using large language models. It uses the `microsoft/phi-2` model as the primary model for the demonstration and the `mistralai/Mistral-7B-Instruct-v0.2` model as a secondary model for comparison. This part of the project provides valuable insights into the power of large language models in extracting insights from large datasets.
 
 Together, these notebooks serve as a practical guide for data scientists, machine learning engineers, and anyone interested in leveraging the power of large language models and embeddings in their data analysis tasks. They provide a step-by-step approach, making it easy to follow and implement in your own projects.
+
+# References
+
+The following resources have been invaluable in the creation and understanding of this project:
+
+1. [Llama Index Documentation](https://docs.llamaindex.ai/en/latest/index.html)
+
+2. [Reachrkr's Gist](https://gist.github.com/reachrkr)
+
+3. [Hugging Face's BAAI Model](https://huggingface.co/BAAI)
+
+4. [Hugging Face's Microsoft PHI-2 Model](https://huggingface.co/microsoft/phi-2)
