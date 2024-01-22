@@ -99,3 +99,5 @@ The following resources have been invaluable in the creation and understanding o
 3. [Hugging Face's BAAI Model](https://huggingface.co/BAAI)
 
 4. [Hugging Face's Microsoft PHI-2 Model](https://huggingface.co/microsoft/phi-2)
+
+5. [Hugging Face's RAG Blog Post](https://huggingface.co/blog/ray-rag)
